@@ -1,0 +1,16 @@
+Listado de ficheros del directorio: /home/admin/Documents/UNIR/2026/Sistemas operativos avanzados
+
+Nombre                              Tamaño(bytes)  Ultima modificacion           
+--------------------------------------------------------------------------------
+Sistemas operativos_7.pdf           434588          21/03/2026 13:07:12           
+Sistemas operativos_1.pdf           1313011         21/03/2026 13:06:12           
+Sistemas operativos_Completo.pdf    8781897         21/03/2026 13:30:20           
+Sistemas operativos_8.pdf           1101821         21/03/2026 13:07:18           
+Sistemas operativos_2.pdf           719997          21/03/2026 13:06:33           
+monitor_info.sh                     780             28/04/2026 21:57:16           
+Sistemas operativos_5.pdf           715732          21/03/2026 13:06:59           
+Sistemas operativos_10.pdf          900498          21/03/2026 13:07:31           
+Sistemas operativos_6.pdf           1497988         21/03/2026 13:07:06           
+Sistemas operativos_3.pdf           657344          21/03/2026 13:06:42           
+Sistemas operativos_4.pdf           764844          21/03/2026 13:06:50           
+Sistemas operativos_9.pdf           800006          21/03/2026 13:07:24           
